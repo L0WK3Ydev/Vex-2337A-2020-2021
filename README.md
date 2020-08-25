@@ -2,6 +2,8 @@
 
  Current chassis code and robot code is stored here.
 
- Master branch is the main code.
- 
+- Master branch is the main code.
+- vex-holonomic is the code for the holonomic drive.
+- vex-tank is the code for the holonomic drive. 
+
  The other branches are used as drafts or code not currently being used.
